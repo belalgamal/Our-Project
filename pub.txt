@@ -2,6 +2,6 @@ this is belalgamal
 this is belalgamal2
 <<<<<<< HEAD
 this is belalgamal4
-=======
+======
 this is belalgamal3
 >>>>>>> origin
